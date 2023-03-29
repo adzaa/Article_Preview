@@ -28,7 +28,7 @@ p {
     margin: 0 !important;
 }
 
-.article-container {
+main {
     height: auto;
     max-width: 850px;
     display: flex;
